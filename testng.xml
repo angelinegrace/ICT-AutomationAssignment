@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/DELL/IdeaProjects/ICTAutomationAssignment">
+    <classes>
+        <class name="TestCase1"></class>
+        <class name="TestCase2"></class>
+        <class name="TestCase3"></class>
+        <class name="TestCase4"></class>
+        <class name="TestCase5"></class>
+        <class name="TestCase6"></class>
+        <class name="TestCase7"></class>
+        <class name="TestCase8"></class>
+        <class name="TestCase9"></class>
+        <class name="TestCase10"></class>
+        <class name="TestCase11"></class>
+        <class name="TestCase12"></class>
+        <class name="TestCase13"></class>
+        <class name="TestCase14"></class>
+        <class name="TestCase15"></class>
+        <class name="Reports"></class>
+
+
+    </classes>
+</test></suite>
